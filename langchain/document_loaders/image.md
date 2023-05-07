@@ -1,0 +1,2 @@
+This code defines a class called `UnstructuredImageLoader` which is used to load image files like PNGs and JPGs. The `UnstructuredImageLoader` class inherits from the `UnstructuredFileLoader` class and has a `_get_elements` method that returns a list of image elements. The script imports the `List` and `UnstructuredFileLoader` modules and uses the `partition_image` function from the `unstructured.partition.image` module to partition the image.
+

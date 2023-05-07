@@ -1,0 +1,6 @@
+This code defines a Python class called NotionLoader, which is used to load data from a Notion database into a list of Document objects. The class has several parameters, including database_id, token, and properties. The load function retrieves data from the Notion API using the requests package and returns a list of Document objects. The class also has several helper functions for formatting and processing the data.
+
+This code defines a Python class called NotionDBLoader, which is used to load data from a Notion database into a list of Document objects. The class has several parameters, including integration_token and database_id. The load function retrieves data from the Notion API using the requests package and returns a list of Document objects. The class also has several helper functions for formatting and processing the data.
+
+This code defines a helper function called _load_blocks and a helper function called _request within the NotionDBLoader class. The _load_blocks function is used to read a block and its children from a Notion database and return the content as a string. The _request function is used to make requests to the Notion API and return the response as JSON. Both functions are used within the load_page function to load data from the Notion database into a list of Document objects.
+

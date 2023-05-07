@@ -1,0 +1,2 @@
+The code defines a class called SRTLoader that is used to load subtitle files in .srt format. The class has an __init__() method that initializes the class with a file path. The class also has a load() method that loads data from the specified file and returns it as a list of Document objects. The example code shows how to use the SRTLoader class by creating an object with a file path, loading data from the file, and printing the number of documents loaded.
+

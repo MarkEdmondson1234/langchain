@@ -1,0 +1,2 @@
+The code defines a Python class called SitemapLoader, which is used to fetch a sitemap and load the URLs contained within it. The class has two functions: parse_sitemap, which parses the sitemap XML and loads it into a list of dictionaries, and load, which loads the sitemap and returns a list of Document objects. The inputs and outputs for each function are described in the docstrings. The code also imports several packages and modules, including itertools, re, Any, Callable, Generator, Iterable, List, Optional, WebBaseLoader, and Document from langchain.schema.
+

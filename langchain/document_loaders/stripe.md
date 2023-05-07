@@ -1,0 +1,2 @@
+This code defines a class called StripeLoader that fetches data from Stripe. The class has an __init__() method that initializes the class with a resource name and an optional access token. The class also has a load() method that loads data from the specified resource and returns it as a list of Document objects. The example code shows how to use the StripeLoader class by creating an object with a resource name and an access token, loading data from the resource, and printing the number of documents loaded.
+

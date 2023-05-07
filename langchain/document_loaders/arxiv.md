@@ -1,0 +1,2 @@
+This code defines a Python class called ArxivLoader, which loads a query result from arxiv.org into a list of Documents. Each document represents one Document, and the loader converts the original PDF format into text. The class has two parameters, query and load_max_docs, and an optional parameter called load_all_available_meta. The load function returns a list of Document objects. The ArxivAPIWrapper class is used to load the documents.
+

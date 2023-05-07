@@ -1,0 +1,2 @@
+This code defines a class called `TomlLoader` which is a TOML document loader that inherits from the `BaseLoader` class. The `TomlLoader` class can be initialized with either a single source file or a source directory containing TOML files. The `load` method of the `TomlLoader` class loads and returns all documents, while the `lazy_load` method lazily loads the TOML documents from the source file or directory. The script also imports the `json`, `Path`, `Iterable`, `List`, `Union`, `Document`, and `BaseLoader` modules, and uses the `tomli` module to parse the TOML files.
+

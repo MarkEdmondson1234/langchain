@@ -1,0 +1,2 @@
+The code defines a Python class called TelegramChatLoader, which is used to load Telegram chat json directory dumps. The class has a single function called load which loads data from the json file and returns a list of Document objects. The inputs and outputs for the load function are described in the docstring. The code also imports several packages and modules, including json, pathlib, typing, List, Document, BaseLoader, and concatenate_rows.
+

@@ -1,0 +1,2 @@
+The code defines a class called TextLoader that is used to load text files and convert them into Document objects. The purpose of the script is to provide a way to load text files and convert them into Document objects. The class has one method called load that takes a file path and an optional encoding as input and returns a list of Document objects representing the loaded text files. The load method reads the text from the specified file and creates a Document object with the text content and metadata indicating the source file path.
+
