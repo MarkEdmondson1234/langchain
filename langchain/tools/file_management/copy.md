@@ -1,0 +1,4 @@
+# File Copy Tool
+
+This code defines a tool for copying files. The module includes a single class, `CopyFileTool`, that provides this functionality. The class inherits from the `BaseFileToolMixin` and `BaseTool` classes, which provide a base class for creating tools that interact with files and a base class for creating tools in general, respectively. The `CopyFileTool` class takes two inputs: `source_path`, which should be a string containing the path of the file to copy, and `destination_path`, which should be a string containing the path to save the copied file. The output is a string indicating whether the file was successfully copied or if an error occurred. The `CopyFileTool` class uses the `shutil` module to copy the specified file. The input for this method is typically a source file path and a destination file path, and the output is typically a message indicating whether the file was successfully copied or if an error occurred.
+

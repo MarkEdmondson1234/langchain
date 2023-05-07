@@ -1,0 +1,2 @@
+This code defines a class `SelfHostedEmbeddings` that is a subclass of `SelfHostedPipeline` and `Embeddings`. The class includes methods for embedding documents and queries using a custom embedding model running on self-hosted remote hardware. The code also includes an inference function for extracting the embeddings on the remote hardware and a root validator function for validating the model requirements. The specific functions and inputs/outputs for each tool are summarized in the code.
+

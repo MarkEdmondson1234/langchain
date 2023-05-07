@@ -1,0 +1,2 @@
+This code defines a Python class called `ShellTool` that is used to create a tool for running shell commands in a REPL. The class has several properties, including `name`, `description`, `process`, and `args_schema`, and several methods, including `_run` and `_arun`. The `_run` method takes a list of shell commands as input and returns the result of running the commands using the `process` property. The `_arun` method does the same thing, but asynchronously. The `ShellInput` class is used to define the schema for the input arguments.
+

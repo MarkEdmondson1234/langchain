@@ -1,0 +1,2 @@
+This code defines two tools for working with the DuckDuckGo search API: `DuckDuckGoSearchRun` and `DuckDuckGoSearchResults`. `DuckDuckGoSearchRun` allows you to query the DuckDuckGo search API and returns the search results as a string. `DuckDuckGoSearchResults` also queries the API but returns the search results as a JSON array. Both tools require setting environment variables for the DuckDuckGo API and take in a search query string as input. The code also includes a deprecated function `DuckDuckGoSearchTool` that can be used instead of `DuckDuckGoSearchRun`.
+

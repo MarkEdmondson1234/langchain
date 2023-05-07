@@ -1,0 +1,2 @@
+This code defines a prompt template class `PromptTemplate` that includes a method for formatting a string template with given parameters. The `NAIVE_FIX` string is a template that includes placeholders for instructions, completion, and error messages. The `NAIVE_FIX_PROMPT` instance of `PromptTemplate` is created using the `NAIVE_FIX` template. It can be used to prompt users to provide an answer that satisfies certain constraints by displaying the instructions, completion, and error messages in a formatted way.
+

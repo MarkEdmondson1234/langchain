@@ -1,0 +1,2 @@
+This code defines a class `AgentScratchPadChatPromptTemplate` that extends `ChatPromptTemplate`. It provides two methods: `_construct_agent_scratchpad` and `_merge_partial_and_user_variables`. The former takes a list of tuples containing `AgentAction` and observation strings, and returns a string representing the previous work done by the user. The latter takes keyword arguments and adds an `agent_scratchpad` field to them, which is the result of calling `_construct_agent_scratchpad` with the `intermediate_steps` keyword argument removed from the input.
+

@@ -1,0 +1,2 @@
+The code you provided is a Python script that defines a string variable named `PREFIX`. The purpose of this variable is to provide instructions for an agent that is designed to write and execute Python code to answer questions. The instructions include information about accessing a Python REPL, debugging code, and using the output of code to answer questions. The `flake8: noqa` comment at the top of the script is used to ignore any flake8 linter errors that may occur.
+

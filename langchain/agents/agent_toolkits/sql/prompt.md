@@ -1,0 +1,2 @@
+The code you provided defines a prompt for an agent designed to interact with a SQL database. The `SQL_PREFIX` variable defines the agent's prompt, which instructs the agent to create a syntactically correct query to run based on the input question, and then look at the results of the query and return the answer. The `SQL_SUFFIX` variable provides additional instructions for the agent, including how to handle errors and what to do if the question does not seem related to the database. The inputs and outputs for each function are not explicitly stated in the code.
+

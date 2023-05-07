@@ -1,0 +1,2 @@
+This code defines a class called `ConvoOutputParser` that extends the `AgentOutputParser` class and is used for parsing the output of a conversational chat agent. The `parse` method extracts the action and action input from the output text and returns an `AgentAction` or `AgentFinish` object depending on the action. The `get_format_instructions` method returns the format instructions for the agent's output. The input and output of these methods and properties are specific to their implementation and are not described in detail here.
+

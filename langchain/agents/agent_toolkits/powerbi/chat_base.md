@@ -1,0 +1,2 @@
+This code defines a Power BI agent that can interact with a user in a conversational chat. The agent is constructed from a language model (llm) and a toolkit that includes tools for performing actions in Power BI. The `create_pbi_chat_agent` function constructs the agent from the llm and toolkit, and includes options for specifying the prefix and suffix of the chat messages, the input variables, and the memory. The function returns an `AgentExecutor` object that can be used to execute the agent. The inputs and outputs for each function are described in the code comments.
+

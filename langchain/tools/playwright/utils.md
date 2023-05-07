@@ -1,0 +1,2 @@
+This code defines utilities for the Playwright browser tools. The module includes several functions, including `aget_current_page`, `get_current_page`, `create_async_playwright_browser`, `create_sync_playwright_browser`, and `run_async`. These functions provide various functionalities, such as getting the current page of a browser, creating a new browser, and running an asynchronous coroutine. The functions are related in that they all provide utility functions for working with Playwright browsers. The inputs and outputs for each function are described in the code.
+

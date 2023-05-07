@@ -1,0 +1,2 @@
+This code defines a utility script that provides a wrapper around the Wolfram Alpha API. The purpose of the script is to enable querying the Wolfram Alpha API and parsing the results. The `WolframAlphaAPIWrapper` class has a `run` method that takes a query as input and returns the result of the query as a string. The script also includes a `validate_environment` method that is used to validate that the API key and Python package exist in the environment, and a `get_from_dict_or_env` method that is used to get a value from a dictionary or environment variable.
+

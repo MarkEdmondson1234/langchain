@@ -1,0 +1,2 @@
+This code defines a class called `AsyncIteratorCallbackHandler` which is a callback handler that returns an async iterator. The class has methods for handling LLM start, new token, end, and error events. The class inherits from `AsyncCallbackHandler` and uses `LLMResult` from `langchain.schema`. The class keeps track of a queue of tokens and an event for when the queue is done. The `aiter` method returns an async iterator that yields tokens from the queue until the queue is empty and the done event is set.
+

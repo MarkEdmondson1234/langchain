@@ -1,0 +1,2 @@
+This code defines a toolkit for interacting with APIs using natural language. The `NLAToolkit` class is defined, which inherits from `BaseToolkit`. It contains several methods for instantiating the toolkit from different sources, such as an OpenAPI spec URL or an `AIPlugin` object. The class also has a method `get_tools` that returns a list of tools for all the API operations. The `NLATool` class is imported from the `langchain.agents.agent_toolkits.nla.tool` module, and other classes are imported from various other modules.
+

@@ -1,0 +1,2 @@
+This code defines a class called `DuckDuckGoSearchAPIWrapper` which provides methods for conducting searches and fetching metadata from the DuckDuckGo Search API. The class uses the Pydantic library to define data models for the DuckDuckGo Search API. The class includes several methods such as `run` and `results`. The `run` method takes a query string as input and returns a concatenated string with the search results. The `results` method returns a list of dictionaries with metadata about the search results such as the snippet, title, and link.
+

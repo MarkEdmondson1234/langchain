@@ -1,0 +1,2 @@
+This code defines a class `Wikipedia` that provides a wrapper around the Wikipedia API. The `Wikipedia` class includes a `search` method that takes a search string and returns either a string representing the summary of a Wikipedia page or a `Document` object representing the full text of the page. If the page does not exist, the `search` method returns similar entries. The `Wikipedia` class also checks that the `wikipedia` Python package is installed.
+

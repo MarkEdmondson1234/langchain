@@ -1,0 +1,2 @@
+The code you provided defines a class called StrictFormatter, which is a subclass of Formatter from the string module. It provides additional functionality to check for extra keys and to validate input variables. The class has three methods: check_unused_args, vformat, and validate_input_variables. The inputs and outputs for each function are described in the code. The code also creates an instance of the StrictFormatter class called formatter.
+

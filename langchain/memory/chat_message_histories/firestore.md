@@ -1,0 +1,2 @@
+This code defines a class called `FirestoreChatMessageHistory` which is used for storing chat message history in Google Firestore. It has methods for retrieving messages from Firestore, adding user and AI messages, appending messages to the record in Firestore, and clearing session memory from Firestore. The class inherits from `BaseChatMessageHistory` and uses `AIMessage`, `HumanMessage`, `messages_from_dict`, `messages_to_dict` from `langchain.schema`. The inputs and outputs for each method are described in the code.
+

@@ -1,0 +1,2 @@
+This code defines a tool for using the SceneXplain API to generate a detailed caption for an image. The tool takes in the link to an image as input and returns a text description that covers every detail of the image. The tool is defined as a subclass of the BaseTool class and includes methods for running the tool synchronously and asynchronously. The code also includes several response messages for common errors and issues that may arise when working with the SceneXplain API.
+

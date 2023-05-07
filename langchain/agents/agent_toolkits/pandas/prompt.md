@@ -1,0 +1,2 @@
+The code you provided defines prompts for a Pandas dataframe agent. The prompts include a prefix and suffix for the chat messages, as well as instructions for the agent on how to interact with the Pandas dataframe. The prefix includes a description of the agent's capabilities and instructions for how to construct a query to answer a question. The suffix includes a prompt for the user to input a question and instructions for how the agent should use the tools to answer the question. The inputs and outputs for each function are not explicitly stated in the code.
+

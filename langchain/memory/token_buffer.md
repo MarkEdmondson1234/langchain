@@ -1,0 +1,2 @@
+The code defines a class called `ConversationTokenBufferMemory` which is used for storing conversation memory. It has methods for loading and saving memory variables, as well as a method for pruning the memory buffer if it exceeds a certain token limit. The class inherits from `BaseChatMemory` and uses a language model (`llm`) and a memory key (`memory_key`) to manage the conversation memory. The inputs and outputs for each method are described in the code.
+

@@ -1,0 +1,2 @@
+This code defines a toolkit for interacting with web browsers using the Playwright library. The module includes several classes, each of which provides a specific functionality. The classes include `NavigateTool`, `NavigateBackTool`, `ExtractTextTool`, `ExtractHyperlinksTool`, `GetElementsTool`, `ClickTool`, and `CurrentWebPageTool`. These classes inherit from the `BaseBrowserTool` class, which provides a base class for creating tools that interact with web browsers. The `__all__` variable is a list of all the classes that can be imported from this module.
+

@@ -1,0 +1,3 @@
+# ExtractTextTool summary
+This code defines a tool for extracting all text on the current webpage. The module includes a single class, `ExtractTextTool`, that provides this functionality. The class inherits from the `BaseBrowserTool` class, which provides a base class for creating tools that interact with web browsers. The `ExtractTextTool` class takes no inputs. The output is a string containing all the text on the current webpage. The `ExtractTextTool` class uses the `page.content` method to get the HTML content of the current webpage, and then uses the `BeautifulSoup` library to parse the HTML content and extract all the text. The input for this method is typically none, and the output is typically a string containing all the text on the current webpage.
+

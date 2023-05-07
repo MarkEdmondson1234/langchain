@@ -1,0 +1,2 @@
+This code defines two classes, `ConversationBufferMemory` and `ConversationStringBufferMemory`, both of which are used for storing conversation history. `ConversationBufferMemory` is a subclass of `BaseChatMemory` and stores conversation history as a list of messages. `ConversationStringBufferMemory` is a subclass of `BaseMemory` and stores conversation history as a string buffer. Both classes have methods for loading, saving, and clearing conversation history. The input and output types for each method are described in the code.
+

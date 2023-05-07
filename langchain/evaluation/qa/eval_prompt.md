@@ -1,0 +1,2 @@
+The code defines three prompt templates for grading quizzes: `PROMPT`, `CONTEXT_PROMPT`, and `COT_PROMPT`. Each prompt template includes input variables for the question, context (if applicable), student answer, true answer (if applicable), and grade. The templates are designed to grade student answers based only on factual accuracy, ignoring differences in punctuation and phrasing. The code imports the `PromptTemplate` class from the `langchain.prompts` module and uses it to define the templates.
+

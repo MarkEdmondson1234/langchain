@@ -1,0 +1,2 @@
+This code defines a wrapper around Google's PaLM Embeddings APIs. The `GooglePalmEmbeddings` class is a subclass of the `BaseModel` and `Embeddings` classes and includes methods for embedding documents and queries using the Google PaLM Embeddings API. The code also includes a root validator function for validating the API key and checking that the required Python package exists. The specific functions and inputs/outputs for each tool are summarized in the code.
+

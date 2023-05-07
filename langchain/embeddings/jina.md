@@ -1,0 +1,2 @@
+This code defines a wrapper around Jina embedding models. The `JinaEmbeddings` class is a subclass of the `BaseModel` and `Embeddings` classes and includes methods for embedding documents and queries using a custom embedding model running on Jina's remote hardware. The code also includes a root validator function for validating the Jina auth token and checking that the required Python package exists. The specific functions and inputs/outputs for each tool are summarized in the code.
+

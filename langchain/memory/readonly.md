@@ -1,0 +1,2 @@
+This code defines a class `ReadOnlySharedMemory` that is a subclass of `BaseMemory`. The purpose of this class is to create a read-only memory wrapper that cannot be changed. The `memory_variables` method returns a list of memory variables. The `load_memory_variables` method loads memory variables from memory. The `save_context` method does nothing, and the `clear` method does nothing. The input and output types for each method are described in the code.
+

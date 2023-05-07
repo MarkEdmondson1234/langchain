@@ -1,0 +1,2 @@
+This code defines a tool for using the OpenWeatherMap API to fetch current weather information for a specified location. The tool is defined as a subclass of the BaseTool class and includes methods for running the tool synchronously and asynchronously. The code also includes several response messages for common errors and issues that may arise when working with the OpenWeatherMap API. The tool takes in a location string as input and returns the current weather information for that location.
+

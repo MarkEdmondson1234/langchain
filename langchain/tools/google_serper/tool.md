@@ -1,0 +1,2 @@
+This code defines two tools for interacting with the Serper.dev Google Search API, GoogleSerperRun and GoogleSerperResults. Both tools are defined as subclasses of the BaseTool class and include methods for running the tool synchronously and asynchronously. The code also includes several response messages for common errors and issues that may arise when working with the tools. The specific functions and inputs/outputs for each tool are summarized in the code.
+

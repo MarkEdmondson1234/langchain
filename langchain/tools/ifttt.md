@@ -1,0 +1,2 @@
+This code defines a Python class called `IFTTTWebhook` that is used to create a webhook for connecting to IFTTT services. The class has several properties, including `url`, and several methods, including `_run` and `_arun`. The `_run` method sends a JSON payload to the specified URL using the `requests` library and returns the response text. The `_arun` method raises a `NotImplementedError`. The code also includes instructions for creating and configuring the webhook using the IFTTT interface.
+

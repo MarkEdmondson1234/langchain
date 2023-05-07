@@ -1,0 +1,2 @@
+This code defines a class called `InvalidTool` that inherits from `BaseTool` and provides a tool that is run when an invalid tool name is encountered by an agent. The class defines two methods called `_run` and `_arun` that use the tool synchronously and asynchronously, respectively. The code also defines a few other classes and functions related to tools, including `BaseTool`, `Tool`, `tool`, and `__all__`. The inputs and outputs for each method are described in the code.
+

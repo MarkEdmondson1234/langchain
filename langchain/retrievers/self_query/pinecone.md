@@ -1,0 +1,2 @@
+This code defines a class called `PineconeTranslator` that converts internal query language to a valid Pinecone query. The class has several methods, including `visit_operation`, `visit_comparison`, and `visit_structured_query`, which all take different types of input and return a dictionary or tuple. The class also defines several inputs, including `allowed_operators` and `allowed_comparators`, and several outputs, including a valid Pinecone query. The code uses the `langchain` module and imports several classes and functions from `langchain.chains.query_constructor.ir`.
+

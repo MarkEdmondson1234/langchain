@@ -1,0 +1,2 @@
+This code defines a class called `SQLChatMessageHistory` which is used for storing chat message history in a SQL database. It has methods for retrieving messages from the database, adding user and AI messages, appending messages to the record in the database, and clearing session memory from the database. The class inherits from `BaseChatMessageHistory` and uses `AIMessage`, `HumanMessage`, `_message_to_dict`, and `messages_from_dict` from `langchain.schema`. The inputs and outputs for each method are described in the code.
+

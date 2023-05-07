@@ -1,0 +1,2 @@
+This code defines a Python class called `WikipediaQueryRun` that is used to create a tool for searching using the Wikipedia API. The class has several properties, including `name`, `description`, and `api_wrapper`, and several methods, including `_run` and `_arun`. The `_run` method takes a search query as input and returns the result of the API call using the `api_wrapper` property. The `_arun` method raises a `NotImplementedError`.
+

@@ -1,0 +1,2 @@
+This code defines two tools for working with the Bing Search API: `BingSearchRun` and `BingSearchResults`. `BingSearchRun` allows you to query the Bing Search API and returns the search results as a string. `BingSearchResults` also queries the API but returns the search results as a JSON array. Both tools require setting environment variables for the Bing Search API and take in a search query string as input.
+

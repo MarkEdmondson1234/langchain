@@ -1,0 +1,2 @@
+This code defines a tool for using the Arxiv API to search for scientific articles. The tool takes in a search query as input and returns the search results from arxiv.org. The code includes two methods for running the search, a synchronous method and an asynchronous method. The tool is defined as a subclass of the BaseTool class and includes methods for running the tool synchronously and asynchronously. The code also includes several response messages for common errors and issues that may arise when working with the Arxiv API.
+

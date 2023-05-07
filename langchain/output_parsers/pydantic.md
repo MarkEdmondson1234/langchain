@@ -1,0 +1,2 @@
+This code defines a class `PydanticOutputParser` that inherits from `BaseOutputParser` and includes methods for parsing JSON output into a Pydantic model. The `parse` method searches for the first JSON object in the input text and parses it into a Pydantic model using the `pydantic_object` attribute. If parsing fails, a `OutputParserException` is raised. The `get_format_instructions` method returns format instructions for the parser that include the schema of the Pydantic model. The `_type` property returns "pydantic".
+

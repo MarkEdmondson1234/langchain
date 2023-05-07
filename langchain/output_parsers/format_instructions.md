@@ -1,0 +1,2 @@
+This code defines two string variables, `STRUCTURED_FORMAT_INSTRUCTIONS` and `PYDANTIC_FORMAT_INSTRUCTIONS`, that include format instructions for structured and Pydantic output parsers, respectively. The `STRUCTURED_FORMAT_INSTRUCTIONS` variable includes a markdown code snippet that should be formatted in a specific JSON schema, while the `PYDANTIC_FORMAT_INSTRUCTIONS` variable includes a JSON schema that the output should conform to. Both variables include placeholders for the format and schema, which should be replaced with the actual format and schema when used.
+

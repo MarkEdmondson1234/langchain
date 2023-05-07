@@ -1,0 +1,2 @@
+This code defines a `ZapierToolkit` class, which inherits from `BaseToolkit`. The class contains a `tools` attribute that is a list of `BaseTool` objects. The `ZapierToolkit` class has two methods: `from_zapier_nla_wrapper` and `get_tools`. The `from_zapier_nla_wrapper` method takes in a `ZapierNLAWrapper` object and returns a `ZapierToolkit` object with `ZapierNLARunAction` tools that correspond to the actions available in the `ZapierNLAWrapper`. The `get_tools` method simply returns the list of tools in the toolkit.
+

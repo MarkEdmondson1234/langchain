@@ -1,0 +1,2 @@
+This code defines a `PromptTemplate` object called `PROMPT` that takes two input variables, "input" and "agent_scratchpad", and a default template string called `_DEFAULT_TEMPLATE`. The template string contains several questions with follow-up questions and intermediate answers, as well as a placeholder for the input and agent scratchpad variables. The purpose of the `PromptTemplate` object is to generate prompts for the user to answer based on the template string and the input and agent scratchpad variables.
+

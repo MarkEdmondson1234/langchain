@@ -1,0 +1,2 @@
+This code defines a class called `WikipediaAPIWrapper` which provides a method for conducting searches and fetching page summaries from the Wikipedia API. The class uses the Pydantic library to define data models for the Wikipedia API. The class includes several methods such as `run`, `_formatted_page_summary`, `_page_to_document`, `_fetch_page`, and `load`. The `run` method takes a query string as input and returns a string with the page summaries of the top-k results of the search. The `load` method returns a list of documents with the document.page_content in PDF format.
+

@@ -1,0 +1,2 @@
+The code you provided defines a toolkit for interacting with Jira. The toolkit includes tools for performing actions on Jira issues. The `from_jira_api_wrapper` function creates a toolkit from a Jira API wrapper object, and the `get_tools` function returns the tools in the toolkit. The `JiraAction` class represents an action that can be performed on a Jira issue, and takes in the name, description, mode, and API wrapper as inputs. The inputs and outputs for each function are not explicitly stated in the code.
+

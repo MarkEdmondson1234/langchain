@@ -1,0 +1,2 @@
+This code defines a class `BooleanOutputParser` that inherits from `BaseOutputParser` and includes a method for parsing text output into a boolean value. The `parse` method checks if the input text matches the `true_val` or `false_val` attribute and returns `True` or `False` accordingly. If the input text does not match either value, a `ValueError` is raised. The `_type` property returns "boolean_output_parser".
+

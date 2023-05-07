@@ -1,0 +1,4 @@
+This code defines tools for working with JSON specs. Specifically, it defines the `JsonSpec` class for parsing JSON data and the `JsonListKeysTool` class for listing all keys at a given path in a JSON spec. The input for the `JsonListKeysTool` is a text representation of the path to the dict in Python syntax, and the output is a string of the keys at the given path. The code also includes a helper function `_parse_input` for parsing input of the form `data["key1"][0]["key2"]` into a list of keys.
+
+This code defines the `JsonGetValueTool` class, which is a tool for getting a value in a JSON spec. The input for the tool is a text representation of the path to the dict in Python syntax, and the output is the value at the given path in string format. The code also defines the `JsonSpec` class for parsing JSON data and includes a helper function `_parse_input` for parsing input of the form `data["key1"][0]["key2"]` into a list of keys.
+

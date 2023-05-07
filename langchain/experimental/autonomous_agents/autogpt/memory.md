@@ -1,0 +1,3 @@
+# AutoGPTMemory class for chat memory and context retrieval
+This code defines the `AutoGPTMemory` class, which is a subclass of `BaseChatMemory` used for chat memory and context retrieval. The `AutoGPTMemory` class has a `retriever` attribute for connecting to a `VectorStoreRetriever` object, a `memory_variables` property for defining memory variables, a `_get_prompt_input_key` method for getting the input key for the prompt, and a `load_memory_variables` method for loading memory variables. The `load_memory_variables` method takes in inputs and returns a dictionary with `chat_history` and `relevant_context` keys. The `relevant_context` key is populated with documents retrieved from the `VectorStoreRetriever` object based on a query.
+

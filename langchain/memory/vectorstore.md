@@ -1,0 +1,2 @@
+This code defines a class `VectorStoreRetrieverMemory` that is a subclass of `BaseMemory`. The purpose of this class is to create a memory object that is backed by a vector store. The `load_memory_variables` method returns the conversation history buffer. The `save_context` method saves the input and output to the conversation history buffer. The `clear` method does nothing. The input and output types for each method are described in the code.
+

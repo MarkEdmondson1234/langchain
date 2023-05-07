@@ -1,0 +1,2 @@
+The code defines a module for selecting examples to include in prompts. It imports two classes from the `langchain.prompts.example_selector` module: `LengthBasedExampleSelector` and `SemanticSimilarityExampleSelector`, as well as a subclass of `SemanticSimilarityExampleSelector` called `MaxMarginalRelevanceExampleSelector`. The module defines a list of all three classes called `__all__`. There are no functions defined in this module.
+

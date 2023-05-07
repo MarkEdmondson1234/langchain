@@ -1,0 +1,2 @@
+This code defines two tools for interacting with vectorstores, VectorStoreQATool and VectorStoreQAWithSourcesTool. Both tools are defined as subclasses of the BaseVectorStoreTool class and the BaseTool class, and include methods for running the tool synchronously and asynchronously. The code also includes several response messages for common errors and issues that may arise when working with the tools. The specific functions and inputs/outputs for each tool are summarized in the code.
+
