@@ -1,0 +1,2 @@
+This code defines two PromptTemplate objects for generating prompts for language models. The first PromptTemplate, named REFINE_PROMPT, takes in an existing summary and additional context as input variables and generates a prompt for refining the original summary based on the new context. The second PromptTemplate, named PROMPT, takes in a text input variable and generates a prompt for summarizing the text. The code imports the PromptTemplate class from the langchain.prompts module.
+

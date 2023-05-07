@@ -1,0 +1,6 @@
+This code imports several classes for summarizing documents, including the BaseCombineDocumentsChain, MapReduceDocumentsChain, RefineDocumentsChain, and StuffDocumentsChain classes. It also imports the LLMChain class for generating language model queries, as well as several prompts for summarizing documents. The code also includes a PromptTemplate class for generating prompts for language models.
+
+This code defines several functions for loading different chains for summarizing documents. The functions include _load_stuff_chain, _load_map_reduce_chain, and _load_refine_chain, each of which takes in various input parameters and returns an instance of a specific document summarization chain class. The code also includes a LoadingCallable interface for loading the combine documents chain.
+
+This code defines a function called load_summarize_chain that takes in a language model, chain type, and verbosity flag as input parameters. The function returns a chain for summarizing documents based on the input parameters. The function uses a loader mapping to determine which document summarization chain to use based on the chain type input parameter. The loader mapping includes the _load_stuff_chain, _load_map_reduce_chain, and _load_refine_chain functions, each of which returns an instance of a specific document summarization chain class.
+

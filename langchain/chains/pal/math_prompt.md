@@ -1,0 +1,4 @@
+This code defines a Python script that includes several questions and their solutions. Each question includes a problem statement and a solution in Python. The questions are related to basic arithmetic operations such as addition, subtraction, and multiplication.
+
+This code defines a Python script that includes a template for a math prompt. The template includes a solution to a specific math problem, which involves finding the number of trees planted by grove workers given the initial number of trees and the final number of trees. The code defines a PromptTemplate class with an input variable for the question and a template string that includes the problem statement and solution in Python. The template can be used to generate math prompts with different questions by passing in a value for the question input variable.
+

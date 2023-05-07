@@ -1,0 +1,2 @@
+The code defines a Python script that generates code to solve basic arithmetic problems. It includes several questions and their solutions, such as finding the color of an object or counting the number of non-orange items to the left of a specified item. The code defines a PromptTemplate class that can be used to generate math prompts with different questions by passing in a value for the question input variable.
+

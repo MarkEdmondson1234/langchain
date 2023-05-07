@@ -1,0 +1,2 @@
+This code defines two PromptTemplate classes, CONDENSE_QUESTION_PROMPT and QA_PROMPT, which are used to generate prompts for language model training. The CONDENSE_QUESTION_PROMPT class is used to rephrase a follow-up question to be a standalone question, given a conversation history and a follow-up question. The QA_PROMPT class is used to generate a prompt for answering a question based on a given context and question. Keywords for this code might include "prompt generation", "language model training", and "question answering".
+

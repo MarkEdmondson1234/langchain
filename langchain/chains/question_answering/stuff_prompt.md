@@ -1,0 +1,2 @@
+This code defines a prompt selector for language models that selects a prompt based on whether the language model is a chat model or not. The code includes a PromptTemplate object, PROMPT, that generates prompts for question answering based on the context and question. The code also includes a chat prompt template, CHAT_PROMPT, that includes a system message and a human message for chat models. The PROMPT_SELECTOR object is a ConditionalPromptSelector that selects the appropriate prompt based on the language model type.
+

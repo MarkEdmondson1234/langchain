@@ -1,0 +1,2 @@
+This code defines a class called TransformChain, which is a chain that transforms the output of a chain. The class has several properties, including input_variables, output_variables, and transform. The class also has a method called _call that takes in a dictionary of inputs and returns a dictionary of outputs. The class uses the pydantic library and the callback manager from the langchain library. Keywords for this code might include "chain transformation", "pydantic", and "callback manager".
+

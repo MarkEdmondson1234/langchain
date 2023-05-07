@@ -1,0 +1,2 @@
+This code defines two prompt selectors for language models. The first prompt selector, REFINE_PROMPT_SELECTOR, selects the refine prompt based on whether the language model is a chat model or not. The second prompt selector, QUESTION_PROMPT_SELECTOR, selects the question prompt based on whether the language model is a chat model or not. Both prompt selectors use a ConditionalPromptSelector object to determine which prompt to use based on the language model type. The code also includes several default prompts and templates for use in the prompt selectors.
+
