@@ -1,0 +1,4 @@
+The code you provided does not define any classes or methods related to a "Banana API". It only imports some modules and defines some utility functions.
+
+The code you provided defines a class called `Banana`, which is a wrapper around Banana large language models. The class includes various parameters such as `model_key`, `model_kwargs`, and `banana_api_key`. The class also includes methods such as `_call`, `_identifying_params`, and `_llm_type`, and is used to call out to Banana's complete endpoint. The code is used for text-generation and text2text-generation. To use this code, you should have the `banana-dev` python package installed, and the environment variable `BANANA_API_KEY` set with your API key. Any parameters that are valid to be passed to the call can be passed in, even if not explicitly saved on this class.
+

@@ -1,0 +1,2 @@
+This code defines a class called `AZLyricsLoader` which is used to load AZLyrics webpages into a `Document` object. The `AZLyricsLoader` class inherits from the `WebBaseLoader` class and has a `load` method that loads the webpage, extracts the title and lyrics, concatenates them, and returns a list containing a `Document` object with the content and metadata. The script also imports the `List`, `Document`, `WebBaseLoader`, and `BeautifulSoup` modules, and uses the `scrape` method from the `WebBaseLoader` class to extract the webpage content.
+

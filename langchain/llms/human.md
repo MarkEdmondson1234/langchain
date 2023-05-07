@@ -1,0 +1,2 @@
+The code you provided defines a class called `HumanInputLLM` that wraps around a language model and returns user input as the response. The class includes a method called `_call` that displays a prompt to the user and returns their input as a response. The code also includes two helper functions called `_display_prompt` and `_collect_user_input` that respectively display a prompt to the user and collect their input as a single string.
+

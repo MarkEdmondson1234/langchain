@@ -1,0 +1,2 @@
+The code you provided defines a class called `DeepInfra`, which is a wrapper around DeepInfra deployed models. The class includes various parameters such as `model_id`, `model_kwargs`, and `deepinfra_api_token`. The class also includes methods such as `_call`, `_identifying_params`, and `_llm_type`, and is used to call out to DeepInfra's inference API endpoint. The code is used for text-generation and text2text-generation.
+

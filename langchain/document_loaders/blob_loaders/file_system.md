@@ -1,0 +1,3 @@
+# A script for loading blobs from a file system
+This script defines a class called `FileSystemBlobLoader` which is used to load binary large objects (BLOBs) from a local file system. The `FileSystemBlobLoader` class inherits from the `BlobLoader` class and has an `__init__` method that takes in three arguments: `path`, `glob`, and `suffixes`. The `yield_blobs` method of the `FileSystemBlobLoader` class yields `Blob` objects that match the specified glob pattern and suffixes. The script also imports the `Path`, `Iterable`, `Optional`, `Sequence`, `Union`, `Blob`, and `BlobLoader` modules from the `langchain.document_loaders.blob_loaders` package.
+

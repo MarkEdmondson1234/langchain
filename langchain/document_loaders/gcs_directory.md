@@ -1,0 +1,3 @@
+# Loading documents from a GCS directory
+This script defines a class called `GCSDirectoryLoader` which is used to load documents from a Google Cloud Storage (GCS) directory. The `GCSDirectoryLoader` class inherits from the `BaseLoader` class and has an `__init__` method that takes in three arguments: `project_name`, `bucket`, and `prefix`. The `load` method of the `GCSDirectoryLoader` class loads the documents from the specified GCS directory and returns a list containing `Document` objects with the content and metadata of the files. The script also imports the `List`, `Document`, `BaseLoader`, and `GCSFileLoader` modules, and uses the `google-cloud-storage` package to interact with the GCS API.
+

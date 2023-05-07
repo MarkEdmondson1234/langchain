@@ -1,0 +1,4 @@
+This code defines three functions for parsing and extracting entities and knowledge triples from strings. The `KnowledgeTriple` class defines a triple in a graph and has a `from_string` method for creating a `KnowledgeTriple` object from a string. The `parse_triples` function parses knowledge triples from a knowledge string, and the `get_entities` function extracts entities from an entity string.
+
+This code defines a class called `NetworkxEntityGraph` that serves as a wrapper for entity graph operations using the NetworkX library. The class has several methods for adding and deleting triples from the graph, getting all triples in the graph, getting information about an entity, writing the graph to a GML file, and clearing the graph. The class also has an `__init__` method for creating a new graph and a `from_gml` class method for creating a `NetworkxEntityGraph` object from a GML file.
+

@@ -1,0 +1,2 @@
+The code you provided defines a class called `PredictionGuard`, which is a wrapper around Prediction Guard large language models. The class includes various parameters such as `client`, `name`, `max_tokens`, `temperature`, `token`, and `stop`. The class is used to call out to Prediction Guard's model proxy and generate text. The code also imports various modules such as `logging`, `pydantic`, `CallbackManagerForLLMRun`, `enforce_stop_tokens`, `get_from_dict_or_env`, and `LLM`.
+
