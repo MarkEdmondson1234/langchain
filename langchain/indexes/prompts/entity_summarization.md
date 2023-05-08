@@ -1,0 +1,2 @@
+The code defines a prompt template for updating the summary of an entity in a conversation between an AI assistant and a human. The template includes instructions for updating the summary based on the last line of conversation, and only including facts about the provided entity. The code imports the PromptTemplate class from the langchain.prompts.prompt module, and suitable keywords for this code might include natural language processing and prompt template.
+

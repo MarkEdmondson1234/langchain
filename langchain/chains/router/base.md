@@ -1,0 +1,2 @@
+This code defines two classes related to chain routing: RouterChain and MultiRouteChain. RouterChain is an abstract class that outputs the name of a destination chain and the inputs to it. MultiRouteChain is a class that uses a single chain to route an input to one of multiple candidate chains. The code also includes several helper classes and methods related to callbacks and pydantic configuration. Suitable keywords for this code might include chain routing, RouterChain, and MultiRouteChain.
+

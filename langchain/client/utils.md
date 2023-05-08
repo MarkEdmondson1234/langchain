@@ -1,0 +1,2 @@
+This code defines a module called Client Utils that includes a function called parse_chat_messages. The purpose of the code is to parse chat messages from a string and return a list of BaseMessage objects. The code includes several imports from the langchain.schema module, as well as a dictionary called _RESOLUTION_MAP that maps entity names to message types. Suitable keywords for this code might include chat messages, parsing, and BaseMessage.
+

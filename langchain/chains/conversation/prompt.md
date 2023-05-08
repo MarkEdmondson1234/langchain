@@ -1,0 +1,2 @@
+This code defines a module for conversation prompts, including a prompt template for carrying on a conversation between a human and an AI. It also includes several prompts for entity extraction, entity memory, entity summarization, and knowledge triple extraction. There are no classes or functions defined in this code, but it includes a list of all memory modules for backwards compatibility. Keywords suitable for this code might include conversation, prompt, and memory.
+

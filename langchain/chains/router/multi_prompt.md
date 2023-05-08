@@ -1,0 +1,2 @@
+This code defines a MultiPromptChain class which uses an LLM router chain to route an input to one of multiple LLM chains. It includes a default chain to use when the router doesn't map the input to any of the destinations. The class has properties for the router chain, destination chains, and default chain. The code also includes a convenience constructor for instantiating from destination prompts. Keywords suitable for this code might include prompt, router, and LLM.
+

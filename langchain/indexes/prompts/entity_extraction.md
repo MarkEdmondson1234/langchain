@@ -1,0 +1,2 @@
+The code defines a prompt template for extracting proper nouns from the last line of a conversation between an AI and a human. The template includes instructions for ignoring items mentioned in the conversation history that are not in the last line, and returning the output as a single comma-separated list or NONE if there is nothing of note to return. The code imports the PromptTemplate class from the langchain.prompts.prompt module, and suitable keywords for this code might include natural language processing and prompt template.
+

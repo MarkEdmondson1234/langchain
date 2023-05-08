@@ -1,0 +1,2 @@
+The code defines a prompt template for extracting knowledge triples from text. The template includes instructions for extracting all of the knowledge triples from the text, where a knowledge triple is a clause that contains a subject, a predicate, and an object. The code imports the KG_TRIPLE_DELIMITER constant from the langchain.graphs.networkx_graph module, and the PromptTemplate class from the langchain.prompts.prompt module. Suitable keywords for this code might include natural language processing and prompt template.
+

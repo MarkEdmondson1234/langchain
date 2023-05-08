@@ -1,0 +1,2 @@
+This code defines a class called MultiRetrievalQAChain that uses an LLM router chain to choose among multiple retrieval QA chains. The purpose of the code is to route an input to one of the candidate chains and potentially revise the input for better results. The code includes several classes related to router chains, retrieval QA chains, and language models. The code also includes a method for creating an instance of the MultiRetrievalQAChain class from retrievers. Keywords suitable for this code might include router, retrieval QA, and LLM.
+

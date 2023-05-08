@@ -1,0 +1,2 @@
+This code defines several Pydantic models for representing datasets and examples. The models include DatasetBase, DatasetCreate, Dataset, ExampleBase, ExampleCreate, and Example. The purpose of the code is to provide a structured way to represent datasets and examples with specific fields such as dataset_id, inputs, outputs, name, and description. The code also imports a schema called Run from the langchain.callbacks.tracers.schemas module. Suitable keywords for this code might include Pydantic, models, and datasets.
+

@@ -1,0 +1,2 @@
+This code defines memory modules for conversation prompts. It includes several classes for different types of memory, such as buffer memory, entity memory, and summary memory. The code also includes a combined memory module and a list of all memory modules for backwards compatibility. There are no functions or methods defined in this code. Keywords suitable for this code might include memory, conversation, and prompts.
+

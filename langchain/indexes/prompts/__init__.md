@@ -1,0 +1,2 @@
+The code defines prompt templates for natural language processing tasks, including extracting proper nouns from a conversation and updating the summary of an entity in a conversation. The code imports the PromptTemplate class from the langchain.prompts.prompt module, and suitable keywords for this code might include natural language processing and prompt template. However, since there are no classes or functions defined in this code, there are no descriptions or examples to provide for those sections of the template.
+

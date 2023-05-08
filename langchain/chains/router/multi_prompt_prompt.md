@@ -1,0 +1,2 @@
+This code defines a prompt template for the router chain in the multi-prompt chain. It includes a description of how to select the best model prompt for a given input, with the option to revise the input for better results. The code also includes a markdown code snippet for formatting the output as a JSON object with the selected prompt and potentially modified input. There are no classes or functions defined in this code. Keywords suitable for this code might include prompt, router, and multi-prompt chain.
+

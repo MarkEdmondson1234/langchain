@@ -1,0 +1,2 @@
+This code defines two classes, LLMRouterChain and RouterOutputParser, for building LLM-powered router chains. LLMRouterChain is a router chain that uses an LLM chain to perform routing, and RouterOutputParser is a parser for the output of the router chain in the multi-prompt chain. The code includes properties and methods for each class, as well as a convenience constructor for LLMRouterChain. Keywords suitable for this code might include LLM, router, and output parser.
+

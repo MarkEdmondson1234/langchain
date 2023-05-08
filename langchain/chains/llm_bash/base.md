@@ -1,0 +1,4 @@
+The code defines a Chain class that interprets a prompt and executes bash code to perform bash operations. It includes several other classes, such as BaseLanguageModel, CallbackManagerForChainRun, LLMChain, and BasePromptTemplate. The code also imports the PROMPT class from the langchain.chains.llm_bash.prompt module and the OutputParserException class from the langchain.schema module. Keywords for this code could be bash, prompt, and Chain.
+
+The code defines an LLMBashChain class that interprets a prompt and executes bash code to perform bash operations. It includes several other classes, such as BaseLanguageModel, CallbackManagerForChainRun, LLMChain, and BasePromptTemplate. The code also imports the PROMPT class from the langchain.chains.llm_bash.prompt module and the OutputParserException class from the langchain.schema module. Keywords for this code could be bash, prompt, and Chain.
+
