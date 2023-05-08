@@ -1,0 +1,2 @@
+This code defines a class called "RetrievalQAWithSourcesChain" for question-answering with sources over an index. It imports various modules and uses the Pydantic library to define fields for the class. The class has several methods, including "_reduce_tokens_below_limit", "_get_docs", and "_aget_docs", which take inputs and return outputs. Keywords for this code could include "question-answering", "index", and "Pydantic".
+

@@ -1,0 +1,4 @@
+This code defines a class called LLMChain that implements a browser driven by a language model. It imports several modules and classes, including BaseLanguageModel, CallbackManagerForChainRun, Chain, LLMChain, PROMPT, and OpenAI. The class includes methods for running a chain and generating text from the language model. The code example provided shows how to use the class to create a browser that interacts with OpenAI's GPT-3 language model. Keywords for this code could include "LLM", "browser", and "language model".
+
+This code defines a class called NatBotChain that implements a browser driven by a language model. The class includes methods for running a chain and generating text from the language model. The code example provided shows how to use the class to create a browser that interacts with OpenAI's GPT-3 language model. Keywords for this code could include "NatBotChain", "browser", and "language model".
+

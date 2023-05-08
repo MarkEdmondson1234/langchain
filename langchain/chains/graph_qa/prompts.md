@@ -1,0 +1,2 @@
+This code defines two prompt templates for generating question-answering prompts. The first template, "ENTITY_EXTRACTION_PROMPT", prompts the user to extract all entities from a given text and return them as a comma-separated list. The second template, "PROMPT", provides knowledge triplets and a question for the user to answer using the provided context. Keywords for this code could include "prompt generation", "question-answering", and "string formatting".
+

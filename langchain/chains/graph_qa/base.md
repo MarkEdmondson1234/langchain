@@ -1,0 +1,2 @@
+This code defines a class called "GraphQAChain" for question-answering against a graph. The class includes an entity extraction chain and a QA chain, both of which are instances of the LLMChain class. The code also includes a method called "_call" that extracts entities, looks up information, and answers questions using the provided context. Keywords for this code could include "question-answering", "graph", and "entity extraction".
+

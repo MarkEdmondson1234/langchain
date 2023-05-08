@@ -1,0 +1,2 @@
+The code defines two PromptTemplate classes for generating API URLs and summarizing API responses based on given API documentation and user questions. The API_URL_PROMPT_TEMPLATE includes a query for generating the full API URL based on the given documentation and question, while the API_RESPONSE_PROMPT_TEMPLATE includes a query for summarizing the API response to answer the original question. The code does not define any specific classes or functions beyond the PromptTemplate classes.
+

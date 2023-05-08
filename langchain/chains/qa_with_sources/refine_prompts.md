@@ -1,0 +1,2 @@
+This code defines several PromptTemplate objects for generating prompts for question-answering tasks. It imports the "PromptTemplate" class from the "langchain.prompts" module and defines three templates: "DEFAULT_REFINE_PROMPT", "DEFAULT_TEXT_QA_PROMPT", and "EXAMPLE_PROMPT". These templates include input variables such as "question", "existing_answer", "context_str", "page_content", and "source". There are no classes or functions defined in this code. Keywords for this code could include "question-answering", "prompt generation", and "template".
+
